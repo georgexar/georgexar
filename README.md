@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Georgexar</h1>
 <h3 align="center">A passionate developer from Greece</h3>
 
-<div style="position: absolute; top: 20px; right: 20px;">
+<div style="position: fixed; top: 20px; right: 20px;">
   <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" alt="GIF" width="150" height="150"/>
 </div>
 
