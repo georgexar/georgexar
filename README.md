@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Georgexar</h1>
 <h3 align="center">A passionate developer from Greece</h3>
 
-<div style="position: absolute; right: 10px; bottom: 10px;">
-  <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" alt="GIF" width="100" height="100"/>
+<div style="position: absolute; top: 20px; right: 20px;">
+  <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" alt="GIF" width="150" height="150"/>
 </div>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
