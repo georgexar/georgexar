@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
--🧑‍🎓 Student at the Computer Science department of the University of Piraeus
+-🧑‍🎓 Senior informatics student at the University of Piraeus
 - 📫 How to reach me **georgexar2003@gmail.com**
 
 
