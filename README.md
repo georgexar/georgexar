@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Greece</h3>
 
 <div style="position: absolute; right: 10px; bottom: 10px;">
-  <img src="https://tenor.com/el/view/coding-gif-24297652" alt="GIF" width="100" height="100"/>
+  <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" alt="GIF" width="100" height="100"/>
 </div>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
