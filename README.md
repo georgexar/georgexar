@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Georgexar</h1>
 <h3 align="center">A passionate developer from Greece</h3>
 
-<div style="position: fixed; top: 20px; right: 200px;">
-  <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" alt="GIF" width="150" height="150"/>
-</div>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 -🧑‍🎓 Senior informatics student at the University of Piraeus
