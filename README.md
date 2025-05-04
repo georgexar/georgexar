@@ -88,7 +88,7 @@
 
 ## 💬 Quote I Live By
 
-> "Never trust a computer you can’t throw out a window." -Steve Wozniak
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 
 ---
