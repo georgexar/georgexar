@@ -57,11 +57,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🎮 **MyUnityGame** | 3D RPG built in Unity with custom camera & animation controller | Unity, C#, Blender |
-| 🌐 **Portfolio Website** | Personal portfolio showcasing projects and skills | HTML, CSS, JS |
-| 🧠 **AI Chatbot** | Simple chatbot powered by Python NLP libraries | Python, Flask |
-
-> *(Add your real repos here to replace placeholders)*
+| 🎮 **MyUnityGame** | FallenKingdom -3D RPG built in Unity | Unity, C# |
 
 ---
 
