@@ -1,5 +1,5 @@
 <h1 align="center">✨ Welcome to my GitHub, I'm Georgexar 👋</h1>
-<h3 align="center">🚀 Game Dev | 🎮 Unity Creator | 👨‍💻 Full-stack Explorer</h3>
+<h3 align="center">🚀 Passionate Game Developer | 👨‍💻 Software Developer</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
