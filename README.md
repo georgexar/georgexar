@@ -88,7 +88,7 @@
 
 ## 💬 Quote I Live By
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "The only way to do great work is to love what you do." – Steve Jobs
 
 
 ---
