@@ -83,6 +83,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  📧 If the email button doesn't work, you can reach me at:  
+  <a href="mailto:georgexar2003@gmail.com">georgexar2003@gmail.com</a>
+</p>
 
 ---
 
