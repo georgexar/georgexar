@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🎓 **Senior Informatics Student** @ *University of Piraeus*
+- 🎓 **Graduate of the Department of Informatics** @ *University of Piraeus*
 - 🕹️ Building immersive **3D games** with Unity
 - 💡 Always learning new technologies and crafting cool side-projects
 - 📫 Reach me at **georgexar2003@gmail.com**
