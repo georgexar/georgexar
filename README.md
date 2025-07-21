@@ -55,9 +55,9 @@
 
 ## 🌟 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🎮 FallenKingdom -3D RPG built in Unity (Thesis Project) | Unity, C# | Private 
+| Project | Description | Tech | State
+|--------|-------------|------|------|
+| 🎮 FallenKingdom | 3D RPG built in Unity (Thesis Project) | Unity, C# | Private 
 
 ---
 
