@@ -57,7 +57,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🎮 **MyUnityGame** | FallenKingdom -3D RPG built in Unity | Unity, C# |
+| 🎮 FallenKingdom -3D RPG built in Unity (Thesis Project) | Unity, C# | Private 
 
 ---
 
